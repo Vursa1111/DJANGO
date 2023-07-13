@@ -4,7 +4,7 @@ from .views import index
 
 urlpatterns = [
 
-    path('lesson_4', index)
+    path('lesson_4/', index)
 
 
 ]
